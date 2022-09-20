@@ -1,0 +1,38 @@
+:root{
+--f7-theme-color:#000;
+--f7-navbar-bg-color: #000; /*navbar*/
+--f7-navbar-text-color:#fff;
+--f7-navbar-link-color:#fff; /*link navbar*/
+--f7-bars-bg-color:#007042;/*toolbar*/
+--f7-block-margin-vertical:20px;
+--f7-card-footer-border-color:transparent; 
+--color-gris:#8f8f8f;
+--color-negro:#000;
+}
+
+.navbar-inner {
+	background-color:#000;
+	
+}
+
+
+#info-panel{
+	background-color:#000;
+	color: #fff;
+	padding: 40px 30px;
+}
+.panel i{
+	color: #000;
+}
+.panel .list{
+	font-size: 14px;
+}
+.img-fluid{
+	max-width: 100%;
+	display: block;
+}
+
+hr{
+	border:1px solid #eee;
+	margin: 20px 0;
+}
